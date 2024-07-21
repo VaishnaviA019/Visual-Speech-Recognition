@@ -1,1 +1,5 @@
 # Visual-Speech-Recognition
+Visual Speech Recognition (VSR) is an emerging field in the domain of multimodal learning that aims to recognize spoken language through mute video footage, focusing on lip movements. This project outlines the methodology for coding a VSR system using deep learning techniques, specifically Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. The dataset includes mini videos and alignment files, preprocessed for standardized input. The model architecture features Conv3D layers, Bidirectional LSTM layers, and uses Connectionist Temporal Classification (CTC) for sequence prediction. 
+Extensive experimentation and validation demonstrate that the system can accurately predict spoken phrases from silent video input. This advancement in speech recognition technology offers potential applications in noiseless communication, aids for the deaf, and enhanced human-machine interaction.
+ 
+Keywords : Visual Speech Recognition, Convolutional Neural Networks (CNNs), Bi-directional Long Short-Term Memory (Bi-LSTM), Connectionist Temporal Classification(CTC).
